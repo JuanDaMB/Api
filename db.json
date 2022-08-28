@@ -1,31 +1,31 @@
 {
-  "users": [
+  "usuarios": [
     {
-      "name": "Hugo",
+      "username": "Hugo",
       "score": 1000
     },{
-      "name": "Paco",
+      "username": "Paco",
       "score": 28
     },{
-      "name": "Jorge",
+      "username": "Jorge",
       "score": 33
     },{
-      "name": "Luis",
+      "username": "Luis",
       "score": 15
     },{
-      "name": "Rigoberta",
+      "username": "Rigoberta",
       "score": 560
     },{
-      "name": "Anastasia",
+      "username": "Anastasia",
       "score": 800
     },{
-      "name": "xXnaruto69Xx",
+      "username": "xXnaruto69Xx",
       "score": 212
     },{
-      "name": "Juan",
+      "username": "Juan",
       "score": 3
     },{
-      "name": "Peppo",
+      "username": "Peppo",
       "score": 2
     }
   ]
